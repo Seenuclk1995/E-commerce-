@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SR Premium Store",
+  "description": "A luxury e-commerce platform featuring a vibrant yellow and white aesthetic, specialized in premium clothes, watches, and shoes with integrated AI assistance and seamless checkout flow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
